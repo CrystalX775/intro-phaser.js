@@ -1,1 +1,6 @@
-# s
+# 
+#👋 Hi, I’m @CrystalX775
+#👀 I’m interested in web development game development and momble development
+#🌱 I’m currently learning js, ts, phsaser.js three.js html react.js sql, c++, c#, swift, css,
+#💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
